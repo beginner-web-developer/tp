@@ -65,8 +65,10 @@
         "glossary": "Glossary",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
-        "deleting-a-person": "Deleting a person",
-        "saving-data": "Saving data"
+        "deleting-a-client": "Deleting a client",
+        "listing-transactions-for-a-client": "Listing transactions for a client",
+        "saving-data": "Saving data",
+        "appendix-planned-enhancements": "Appendix: Planned Enhancements"
       },
       "headingKeywords": {}
     },
@@ -119,8 +121,10 @@
         "transaction-management-commands": "Transaction Management Commands",
         "data-management": "Data Management",
         "faq": "FAQ",
-        "known-issues": "Known issues",
-        "command-summary": "Command Summary"
+        "known-issues": "Known Issues",
+        "future-enhancements": "Future Enhancements",
+        "command-summary": "Command Summary",
+        "parameter-summary": "Parameter Summary"
       },
       "headingKeywords": {}
     },
